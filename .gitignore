@@ -1,3 +1,4 @@
-/data/*
-
 NO_GIT_*
+
+__pycache__
+*.pyc
